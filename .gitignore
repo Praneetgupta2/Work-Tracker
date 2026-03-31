@@ -1,0 +1,16 @@
+# Node.js
+node_modules/
+dist/
+build/
+.env
+.env.production
+.env.local
+
+# Firebase Secrets (DO NOT PUSH)
+serviceAccountKey.json
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+*.log
